@@ -65,5 +65,8 @@ Contributions to the project are welcome! Please follow these steps:
 5. Submit a pull request.
 
 ## Screenshots
+####Graph Before Data Analysis
 ![Graph Before Data Analysis](/Screenshots/Final%20Graph%20(BEFORE).png "Graph Before Data Analysis")
+
+####Graph After Data Analysis
 ![Graph After Data Analysis](/Screenshots/Final%20Graph%20(AFTER).png "Graph After Data Analysis")
