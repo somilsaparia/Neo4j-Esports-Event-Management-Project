@@ -64,6 +64,6 @@ Contributions to the project are welcome! Please follow these steps:
 4. Push to the branch: `git push origin new-feature`
 5. Submit a pull request.
 
-### License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
+## Screenshots
+![Graph Before Data Analysis](/Screenshots/Final%20Graph%20(BEFORE).png "Graph Before Data Analysis")
+![Graph After Data Analysis](/Screenshots/Final%20Graph%20(AFTER).png "Graph After Data Analysis")
